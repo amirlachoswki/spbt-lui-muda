@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pengurusan SPBT Sekolah Rendah",
+  "description": "Sistem Pengurusan Skim Pinjaman Buku Teks (SPBT) Sekolah Rendah yang moden, lengkap, dan responsif dengan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
